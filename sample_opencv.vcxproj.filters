@@ -23,5 +23,17 @@
     <Image Include="bin\input.png">
       <Filter>res</Filter>
     </Image>
+    <Image Include="bin\outimage.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="bin\tmpl1.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="bin\midimage.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="bin\detected.png">
+      <Filter>res</Filter>
+    </Image>
   </ItemGroup>
 </Project>
